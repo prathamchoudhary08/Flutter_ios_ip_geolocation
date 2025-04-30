@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/prathamc/Desktop/proxy_ip_locator/ios/build/ios_proxy_release/Build/Intermediates.noindex/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.swiftconstvalues",
+    "dependencies" : "/Users/prathamc/Desktop/proxy_ip_locator/ios/build/ios_proxy_release/Build/Intermediates.noindex/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.d",
+    "diagnostics" : "/Users/prathamc/Desktop/proxy_ip_locator/ios/build/ios_proxy_release/Build/Intermediates.noindex/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.dia",
+    "emit-module-dependencies" : "/Users/prathamc/Desktop/proxy_ip_locator/ios/build/ios_proxy_release/Build/Intermediates.noindex/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/prathamc/Desktop/proxy_ip_locator/ios/build/ios_proxy_release/Build/Intermediates.noindex/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/prathamc/Desktop/proxy_ip_locator/ios/build/ios_proxy_release/Build/Intermediates.noindex/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests-master.swiftdeps"
+  },
+  "/Users/prathamc/Desktop/proxy_ip_locator/ios/RunnerTests/RunnerTests.swift" : {
+    "index-unit-output-path" : "/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests.o",
+    "llvm-bc" : "/Users/prathamc/Desktop/proxy_ip_locator/ios/build/ios_proxy_release/Build/Intermediates.noindex/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests.bc",
+    "object" : "/Users/prathamc/Desktop/proxy_ip_locator/ios/build/ios_proxy_release/Build/Intermediates.noindex/Runner.build/Release-iphoneos/RunnerTests.build/Objects-normal/arm64/RunnerTests.o"
+  }
+}

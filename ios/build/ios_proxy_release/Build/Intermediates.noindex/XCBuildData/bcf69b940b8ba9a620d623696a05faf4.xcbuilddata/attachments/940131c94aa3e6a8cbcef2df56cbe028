@@ -1,0 +1,5 @@
+ extern const unsigned char flutter_system_proxyVersionString[];
+ extern const double flutter_system_proxyVersionNumber;
+
+ const unsigned char flutter_system_proxyVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:flutter_system_proxy  PROJECT:Pods-1" "\n";
+ const double flutter_system_proxyVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,11 @@
+framework module flutter_system_proxy {
+  umbrella header "flutter_system_proxy-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_system_proxy.Swift {
+  header "flutter_system_proxy-Swift.h"
+  requires objc
+}
