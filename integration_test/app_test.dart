@@ -88,12 +88,4 @@ void main() {
   testWidgets("Test_IP_Visibility_Quick_Post_IP_Wait", (tester) =>
     runIPTest(tester, "Test_IP_Visibility_Quick_Post_IP_Wait", postIPWait: 5));
 
-  // testWidgets("Test_IP_Visibility_Tap_Again", (tester) =>
-  //   runIPTest(tester, "Test_IP_Visibility_Tap_Again", tapAgain: true));
-
-  // testWidgets("Test_IP_Visibility_Full_Tap_Repeat", (tester) =>
-  //   runIPTest(tester, "Test_IP_Visibility_Full_Tap_Repeat", postIPWait: 10, tapAgain: true));
-
-  // testWidgets("Test_IP_Visibility_Minimal_Delays", (tester) =>
-  //   runIPTest(tester, "Test_IP_Visibility_Minimal_Delays", initialDelay: 5, postIPWait: 5));
 }
